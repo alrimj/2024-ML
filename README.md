@@ -1,7 +1,5 @@
 # Looking Back `2024 Machine Learning Team Project`
 
--
-
 ## Topic of this project :  Emotion recognition uising voice recognition
 our team is composed with 4 people that include me.
 I take a task which is 
