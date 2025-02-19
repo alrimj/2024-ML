@@ -1,5 +1,7 @@
 # Looking Back `2024 Machine Learning Team Project`
----
+
+-
+
 ## Topic of this project :  Emotion recognition uising voice recognition
 our team is composed with 4 people that include me.
 I take a task which is 
@@ -36,6 +38,7 @@ It uses the Distance measure and have to decide the hyperparameter 'K' which mea
 We could do cross Validation for finding proper K or Normalization if feature's scale is different.
 used distance measurement was Manhattan.
 K (n-neighbors) is 20.
+
 ![image](https://github.com/user-attachments/assets/2dc3620e-93bb-4d90-9c72-b3b711e19b36)
 
 ### RF > 0.478 Acc
@@ -47,6 +50,7 @@ n_mfcc : 5 ~ 30
 n_estimators : 100 ~ 400
 max_depth : 20 ~ 100
 Model : RandomForestClassifier
+
 ![image](https://github.com/user-attachments/assets/b36b08f4-9c39-4cc0-9af4-40bec97338d9)
 
 ![image](https://github.com/user-attachments/assets/0c96211e-3f26-40cb-b402-e72f20c01fc7)
@@ -64,6 +68,7 @@ used sklearn.svm.SVC
 In scilit-learn, multi-class support was handled according to OvO scheme.
 
 First chosen kernel was linear, but, changed by rbf which made better accuracy.
+
 ![image](https://github.com/user-attachments/assets/67f1ddcc-1272-4428-9fc9-fbb741faff89)
 
 ## Conclusion
@@ -87,7 +92,7 @@ So, I'll learn Speech recognition Technology, MLP.
 - [ ]  DNN-HMM
 - [ ]  E2E-CTC
 
-- [ ]  - [ ]  Words Representation
+- [ ]  Words Representation
 - [ ]  Sequence Modeling with RNNs
 - [ ]  Sequence Modeling with Transformers
 - [ ]  Instruction Tuning
